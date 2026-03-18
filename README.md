@@ -1,1 +1,1 @@
-<h1 style="background-colour: pink">Welcome to my github page!</h1>
+![Welcome icon](./git_hello.svg)
