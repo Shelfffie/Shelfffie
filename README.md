@@ -1,1 +1,1 @@
-![Welcome icon](./git_hello.svg)
+![Welcome icon](./git_hello.csv)
