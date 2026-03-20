@@ -1,1 +1,1 @@
-![Welcome icon](./hello_icon.png)
+![Welcome icon](./hello_world_icon.png)
